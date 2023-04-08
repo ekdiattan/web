@@ -1,0 +1,99 @@
+.material-symbols-outlined {
+    font-variation-settings:
+        'FILL'0,
+        'wght'400,
+        'GRAD'0,
+        'opsz'48
+}
+
+#imageprofile {
+    width: 100px;
+    height: 100px;
+}
+
+h1 {
+    font-size: 30px;
+    text-align: center;
+    color: #ffffff;
+    margin-top: 20px;
+}
+
+h2 {
+    font-size: 18px;
+    text-align: center;
+    color: #ffffff;
+}
+
+#tentangsaya {
+    color: black;
+}
+
+#deskripsi {
+
+    color: rgb(48, 47, 47);
+    text-align: justify;
+    font-size: 19px;
+    font-family: 'Roboto', sans-serif;
+}
+
+#deskripsi2 {
+
+    color: black;
+    text-align: justify;
+    font-size: 19px;
+}
+
+#pendidikan {
+    color: black;
+    text-align: left;
+    font-size: 30px;
+}
+
+#sekolah {
+    color: rgb(48, 47, 47);
+    text-align: justify;
+    font-size: 19px;
+    font-family: 'Roboto', sans-serif;
+}
+
+#saya {
+    color: rgb(48, 47, 47);
+    font-size: 19px;
+}
+
+#domain {
+    margin-left: 15px;
+}
+
+#marquee {
+    background-color: blue;
+}
+
+#progress1 {
+    width: 93%;
+    background-color: rgb(194, 7, 7);
+}
+
+#progress2 {
+    width: 70%;
+    background-color: rgb(0, 0, 75);
+}
+
+#progress3 {
+    width: 50%;
+    background-color: rgb(9, 6, 53);
+}
+
+#floatingTextarea2 {
+    height: 300px;
+    /* margin-top: 50px; */
+}
+
+#tombolpesan {
+    margin-top: 10px;
+    float: right;
+}
+
+#bekron2 {
+    margin-top: 60px;
+}
