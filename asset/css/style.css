@@ -11,21 +11,28 @@
     height: 100px;
 }
 
+#ub {
+    width: 90px;
+    height: 80px;
+    background: #ffffff;
+    border-radius: 19%;
+}
+
 h1 {
     font-size: 30px;
     text-align: center;
-    color: #ffffff;
+    color: #000000;
     margin-top: 20px;
 }
 
 h2 {
     font-size: 18px;
     text-align: center;
-    color: #ffffff;
+    color: #000000;
 }
 
 #tentangsaya {
-    color: black;
+    color: #ffffff;
 }
 
 #deskripsi {
@@ -50,14 +57,14 @@ h2 {
 }
 
 #sekolah {
-    color: rgb(48, 47, 47);
+
     text-align: justify;
     font-size: 19px;
     font-family: 'Roboto', sans-serif;
 }
 
 #saya {
-    color: rgb(48, 47, 47);
+    color: #ffffff;
     font-size: 19px;
 }
 
@@ -96,7 +103,6 @@ h2 {
 
 #bekron2 {
     margin-top: 60px;
-    background-color: rgb(1, 23, 70);
 }
 
 #navbar {
@@ -105,7 +111,7 @@ h2 {
 }
 
 #jumbotronfirst {
-    background-color: rgb(1, 23, 70);
+    background-color: #B9FBFF;
 }
 
 .fa {
@@ -121,32 +127,32 @@ h2 {
 .fa-instagram {
     width: 70px;
     height: 70px;
-    background: #3B5998;
-    color: white;
+    background: #B9FBFF;
+    color: #000000;
     border-radius: 100%;
 }
 
 .fa-github {
     width: 70px;
     height: 70px;
-    background: #3B5998;
-    color: white;
+    background: #B9FBFF;
+    color: #000000;
     border-radius: 100%;
 }
 
 .fa-linkedin {
     width: 70px;
     height: 70px;
-    background: #3B5998;
-    color: white;
+    background: #B9FBFF;
+    color: #000000;
     border-radius: 100%;
 }
 
 .fa-google {
     width: 70px;
     height: 70px;
-    background: #3B5998;
-    color: white;
+    background: #B9FBFF;
+    color: #000000;
     border-radius: 100%;
 }
 
@@ -155,8 +161,8 @@ h2 {
         font-size: 20px;
         width: 60px;
         height: 60px;
-        background: #3B5998;
-        color: white;
+        background: #B9FBFF;
+        color: #000000;
         border-radius: 100%;
     }
 
@@ -164,8 +170,8 @@ h2 {
         font-size: 20px;
         width: 60px;
         height: 60px;
-        background: #3B5998;
-        color: white;
+        background: #B9FBFF;
+        color: #000000;
         border-radius: 100%;
     }
 
@@ -173,8 +179,8 @@ h2 {
         font-size: 20px;
         width: 60px;
         height: 60px;
-        background: #3B5998;
-        color: white;
+        background: #B9FBFF;
+        color: #000000;
         border-radius: 100%;
     }
 
@@ -182,8 +188,8 @@ h2 {
         font-size: 20px;
         width: 60px;
         height: 60px;
-        background: #3B5998;
-        color: white;
+        background: #B9FBFF;
+        color: #000000;
         border-radius: 100%;
     }
 }
@@ -211,6 +217,10 @@ h2 {
     float: right;
     height: 20px;
     width: 30px;
+}
+
+body {
+    background-color: #2D7579;
 }
 
 /* End Medsos */
