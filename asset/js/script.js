@@ -25,17 +25,6 @@ document.getElementById("tombolpesan").addEventListener("click", function (event
         document.getElementById("pesan").submit();
     }
 });
-// JS Alert Engslish
-document.getElementById("tombolpesan").addEventListener("click", function (event) {
-    var floatingTextarea2 = document.getElementById("floatingTextarea2").value;
-    if (floatingTextarea2 === "") {
-        alert("You haven't sent Attan a message yet!");
-        event.preventDefault();
-    } else {
-        alert("Thank you, your message will be read!");
-        document.getElementById("message").submit();
-    }
-});
 // End JS Alert
 // Jam 
 function tampilkanJam() {
@@ -63,5 +52,7 @@ function tampilkanJam() {
 
 // panggil fungsi tampilkanJam untuk pertama kali
 tampilkanJam();
+
+
 
 // End jam
