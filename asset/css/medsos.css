@@ -1,0 +1,77 @@
+.fa {
+    text-align: center;
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-decoration: none;
+}
+
+.fa-instagram {
+    width: 70px;
+    height: 70px;
+    background: #B9FBFF;
+    color: #000000;
+    border-radius: 100%;
+}
+
+.fa-github {
+    width: 70px;
+    height: 70px;
+    background: #B9FBFF;
+    color: #000000;
+    border-radius: 100%;
+}
+
+.fa-linkedin {
+    width: 70px;
+    height: 70px;
+    background: #B9FBFF;
+    color: #000000;
+    border-radius: 100%;
+}
+
+.fa-google {
+    width: 70px;
+    height: 70px;
+    background: #B9FBFF;
+    color: #000000;
+    border-radius: 100%;
+}
+
+@media only screen and (max-width: 600px) {
+    .fa-instagram {
+        font-size: 20px;
+        width: 60px;
+        height: 60px;
+        background: #B9FBFF;
+        color: #000000;
+        border-radius: 100%;
+    }
+
+    .fa-github {
+        font-size: 20px;
+        width: 60px;
+        height: 60px;
+        background: #B9FBFF;
+        color: #000000;
+        border-radius: 100%;
+    }
+
+    .fa-linkedin {
+        font-size: 20px;
+        width: 60px;
+        height: 60px;
+        background: #B9FBFF;
+        color: #000000;
+        border-radius: 100%;
+    }
+
+    .fa-google {
+        font-size: 20px;
+        width: 60px;
+        height: 60px;
+        background: #B9FBFF;
+        color: #000000;
+        border-radius: 100%;
+    }
+}

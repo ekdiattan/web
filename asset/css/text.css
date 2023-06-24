@@ -94,25 +94,6 @@ h2 {
     margin-left: 15px;
 }
 
-#marquee {
-    background-color: blue;
-}
-
-#progress1 {
-    width: 93%;
-    background-color: rgb(194, 7, 7);
-}
-
-#progress2 {
-    width: 70%;
-    background-color: rgb(0, 0, 75);
-}
-
-#progress3 {
-    width: 50%;
-    background-color: rgb(9, 6, 53);
-}
-
 #mediasosial {
     color: white;
 }
@@ -138,90 +119,6 @@ h2 {
 
 #jumbotronfirst {
     background-color: #ffffff;
-}
-
-.fa {
-    text-align: center;
-    padding: 20px;
-    font-size: 30px;
-    width: 50px;
-    text-decoration: none;
-}
-
-/* Medsos */
-/* Add a hover effect if you want */
-.fa-instagram {
-    width: 70px;
-    height: 70px;
-    background: #B9FBFF;
-    color: #000000;
-    border-radius: 100%;
-}
-
-.fa-github {
-    width: 70px;
-    height: 70px;
-    background: #B9FBFF;
-    color: #000000;
-    border-radius: 100%;
-}
-
-.fa-linkedin {
-    width: 70px;
-    height: 70px;
-    background: #B9FBFF;
-    color: #000000;
-    border-radius: 100%;
-}
-
-.fa-google {
-    width: 70px;
-    height: 70px;
-    background: #B9FBFF;
-    color: #000000;
-    border-radius: 100%;
-}
-
-@media only screen and (max-width: 600px) {
-    .fa-instagram {
-        font-size: 20px;
-        width: 60px;
-        height: 60px;
-        background: #B9FBFF;
-        color: #000000;
-        border-radius: 100%;
-    }
-
-    .fa-github {
-        font-size: 20px;
-        width: 60px;
-        height: 60px;
-        background: #B9FBFF;
-        color: #000000;
-        border-radius: 100%;
-    }
-
-    .fa-linkedin {
-        font-size: 20px;
-        width: 60px;
-        height: 60px;
-        background: #B9FBFF;
-        color: #000000;
-        border-radius: 100%;
-    }
-
-    .fa-google {
-        font-size: 20px;
-        width: 60px;
-        height: 60px;
-        background: #B9FBFF;
-        color: #000000;
-        border-radius: 100%;
-    }
-}
-
-#jam {
-    text-align: right;
 }
 
 #footer {
@@ -250,7 +147,3 @@ h2 {
     height: 20px;
     width: 30px;
 }
-
-
-
-/* End Medsos */
