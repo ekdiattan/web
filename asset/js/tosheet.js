@@ -25,4 +25,3 @@ document.getElementById("tombolpesan").addEventListener("click", function (event
         document.getElementById("pesan").submit();
     }
 });
-// End JS Alert

@@ -33,13 +33,13 @@ google.addEventListener("mouseout", function () {
 // Text typing
 var attan = 0;
 var selamat = "Selamat Datang di Website Hadyan Yuma Ekdiattan";
-var txt1 = "Full Stack Web Developer";
+var jabatan = "Full Stack Web Developer";
 var speed = 50;
 
 function typeWriter() {
     if (attan < selamat.length) {
         document.getElementById("namaHadyan").innerHTML += selamat.charAt(attan);
-        document.getElementById("motto").innerHTML += txt1.charAt(attan);
+        document.getElementById("motto").innerHTML += jabatan.charAt(attan);
         attan++;
         setTimeout(typeWriter, speed);
     }
