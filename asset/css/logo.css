@@ -1,16 +1,16 @@
 #logofrontend {
-    width: 48px;
-    height: 48px;
+    inline-size: 48px;
+    block-size: 48px;
 }
 
 #logobackend {
-    width: 48px;
-    height: 48px;
+    inline-size: 48px;
+    block-size: 48px;
 
 }
 
 #logobackendlaravel {
-    width: 35px;
-    height: 35px;
+    inline-size: 35px;
+    block-size: 35px;
 
 }

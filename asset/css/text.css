@@ -11,14 +11,14 @@ body {
 }
 
 #imageprofile {
-    width: 200px;
-    height: 200px;
+    inline-size: 200px;
+    block-size: 200px;
     border-radius: 40%;
 }
 
 #ub {
-    width: 90px;
-    height: 80px;
+    inline-size: 90px;
+    block-size: 80px;
     background: #ffffff;
     border-radius: 19%;
 }
@@ -27,7 +27,7 @@ h1 {
     font-size: 30px;
     text-align: center;
     color: #000000;
-    margin-top: 20px;
+    margin-block: 20px;
 }
 
 h2 {
@@ -57,19 +57,19 @@ h2 {
 
 #frontend {
     color: rgb(255, 253, 253);
-    text-align: left;
+    text-align: start;
     font-size: 30px;
 }
 
 #keahlian {
     color: rgb(255, 253, 253);
-    text-align: left;
+    text-align: start;
     font-size: 30px;
 }
 
 #pesan {
-    color: black;
-    text-align: left;
+    color: white;
+    text-align: start;
     font-size: 30px;
 }
 
@@ -91,7 +91,7 @@ h2 {
 }
 
 #domain {
-    margin-left: 15px;
+    margin-inline-start: 15px;
 }
 
 #mediasosial {
@@ -99,17 +99,16 @@ h2 {
 }
 
 #floatingTextarea2 {
-    height: 300px;
-    /* margin-top: 50px; */
+    block-size: 300px;
 }
 
 #tombolpesan {
-    margin-top: 10px;
-    float: right;
+    margin-block: 10px;
+    float: inline-end;
 }
 
 #bekron2 {
-    margin-top: 60px;
+    margin-block-start: 60px;
 }
 
 #navbar {
@@ -127,23 +126,23 @@ h2 {
 
 #namaHadyan {
     font-size: 20px;
-    text-align: left;
+    text-align: start;
 }
 
 #motto {
     font-size: 20px;
-    text-align: left;
+    text-align: start;
 }
 
 #england {
-    float: right;
-    height: 19px;
-    width: 50px;
+    float: inline-end;
+    block-size: 19px;
+    inline-size: 50px;
 }
 
 #indonesia {
-    margin-right: 10px;
-    float: right;
-    height: 20px;
-    width: 30px;
+    margin-inline-end: 10px;
+    float: inline-end;
+    block-size: 20px;
+    inline-size: 30px;
 }
