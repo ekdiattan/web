@@ -18,11 +18,11 @@ const designtools = document.getElementById("designtools");
 // Buat html
 // namaHadyan.innerHTML = "Hadyan Yuma Ekdiattan";
 // motto.innerHTML = "Full Stack Web Developer";
-mediasosial.innerHTML = "Social Media";
-footer.innerHTML = "Dibuat oleh Hadyan Yuma Ekdiattan. ©2023";
+mediasosial.innerHTML = "Media Sosial";
+footer.innerHTML = "Dibuat oleh Hadyan Yuma Ekdiattan";
 pesan.innerHTML = "Pesan";
 title.innerHTML = "Hadyan Yuma Ekdiattan | Profile";
-tentangsaya.innerHTML = "PORTFOLIO";
+tentangsaya.innerHTML = "";
 // education.innerHTML = "Education";
 saya.innerHTML = "Information Technology Program, University Of Brawijaya (Now)";
 frontend.innerHTML = "Front-end";
