@@ -18,7 +18,7 @@ form.addEventListener('submit', e => {
 document.getElementById("tombolpesan").addEventListener("click", function (event) {
     var floatingTextarea2 = document.getElementById("floatingTextarea2").value;
     if (floatingTextarea2 === "") {
-        alert("Kamu belum kirim pesan buat Attan!");
+        alert("Pesan masih kosong, silahkan coba kembali");
         event.preventDefault();
     } else {
         alert("Terimakasih, pesan anda akan dibaca!");
